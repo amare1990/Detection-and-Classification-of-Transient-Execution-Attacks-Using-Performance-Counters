@@ -1,0 +1,1 @@
+/usr/bin/c++   -O1   CMakeFiles/ret2spec_sa.dir/ret2spec_sa.cc.o CMakeFiles/ret2spec_sa.dir/ret2spec_common.cc.o  -o ret2spec_sa  libsafeside.a 

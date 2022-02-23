@@ -1,0 +1,1 @@
+/usr/bin/c++   -O1   CMakeFiles/faults_test.dir/faults_test.cc.o  -o faults_test  libsafeside.a 

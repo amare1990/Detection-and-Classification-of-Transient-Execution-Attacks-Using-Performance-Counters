@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cache_size.dir/cache_size.cc.o  -o cache_size  ../demos/libsafeside.a 

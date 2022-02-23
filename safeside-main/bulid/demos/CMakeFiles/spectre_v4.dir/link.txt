@@ -1,0 +1,1 @@
+/usr/bin/c++   -O1   CMakeFiles/spectre_v4.dir/spectre_v4.cc.o  -o spectre_v4  libsafeside.a 

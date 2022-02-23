@@ -1,0 +1,1 @@
+/usr/bin/c++   -O1   CMakeFiles/spectre_v1_btb_ca.dir/spectre_v1_btb_ca.cc.o  -o spectre_v1_btb_ca  libsafeside.a 

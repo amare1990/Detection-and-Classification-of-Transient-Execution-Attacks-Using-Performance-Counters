@@ -1,0 +1,1 @@
+/usr/bin/c++   -O1   CMakeFiles/ret2spec_callret_disparity.dir/ret2spec_callret_disparity.cc.o  -o ret2spec_callret_disparity  libsafeside.a 
